@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Pedro Adonay 🇧🇷
+# 👨🏻‍💻 Pedro Adonay
 
 **`Software Development Student`**
 
