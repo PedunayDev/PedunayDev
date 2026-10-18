@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Sou estudante do ensino médio e tenho interesse em desenvolvimento de software e criação de jogos. Atualmente, estudo C# e Java, além de explorar o desenvolvimento de jogos com Unity e Roblox Studio.
+Estudante de programação interessado em desenvolvimento de software e jogos. Atualmente, estudo C# e Java, além de explorar o desenvolvimento de jogos com Unity e Roblox Studio.
 
 ---
 
