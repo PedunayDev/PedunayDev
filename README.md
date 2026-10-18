@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Software`**
 
-Estudante de programação interessado em desenvolvimento de software e jogos. Atualmente, estudo C# e Java, além de explorar o desenvolvimento de jogos com Unity e Roblox Studio.
+Estudante de programação com foco em desenvolvimento de software e jogos. Atualmente, estudo C# e Java e desenvolvo projetos utilizando Unity e Roblox Studio.
 
 ---
 
